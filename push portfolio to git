@@ -1,0 +1,10 @@
+To push portfolio to github
+
+cd oops(file name)
+git init(get intializing empty respority)
+git add --all
+git commit -m 'hhh'
+git remote add origin https://github.com/sourya-varma/oop.git(when we created new respority it will in that website to add)
+git push -u origin master 
+user name
+password
